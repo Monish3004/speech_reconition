@@ -1,3 +1,14 @@
 streamlit
-SpeechRecognition
-pyaudio
+logging
+logging.handlers
+queue
+threading
+time
+urllib.request
+collections 
+pathlib
+typing
+av
+numpy as np
+pydub
+streamlit_webrtc
